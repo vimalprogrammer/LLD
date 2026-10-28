@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3ba0c4b5-fed3-434c-9f6f-10f48f541b0f" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CopilotPersistence">
+    <persistenceIdMap>
+      <entry key="_/Users/vimal-17500/IdeaProjects/LLD" value="3GHNs1AMMQnmybtiQNQEr3tUqjX" />
+    </persistenceIdMap>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="4.637722843845097E-175" />
+      <entry key="S2" value="2.609640432059007E-44" />
+      <entry key="S5" value="3.726306639171634E-18" />
+      <entry key="S10" value="2.164806440786592E-9" />
+      <entry key="S30" value="0.0024949696699910063" />
+      <entry key="S60" value="0.12325834459206934" />
+      <entry key="M2" value="1.338188525353429" />
+      <entry key="M5" value="9.50501992277318" />
+      <entry key="M10" value="22.705189127751908" />
+      <entry key="M15" value="32.00314476854632" />
+      <entry key="M30" value="52.40024474715395" />
+      <entry key="H1" value="94.94328931775175" />
+      <entry key="H2" value="179.00261340790289" />
+      <entry key="H4" value="289.09285704666456" />
+      <entry key="D1" value="577.2997124528165" />
+      <entry key="W1" value="1134.3770708991199" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0" />
+      <entry key="S5" value="1.0" />
+      <entry key="S10" value="1.000000001216017" />
+      <entry key="S30" value="1.002818593143379" />
+      <entry key="S60" value="1.1481080438354347" />
+      <entry key="M2" value="2.5490785879403166" />
+      <entry key="M5" value="11.386071443381697" />
+      <entry key="M10" value="25.429262881426002" />
+      <entry key="M15" value="35.08189429739997" />
+      <entry key="M30" value="53.97922362745303" />
+      <entry key="H1" value="85.18840605169882" />
+      <entry key="H2" value="138.18696369618718" />
+      <entry key="H4" value="204.9658767966898" />
+      <entry key="D1" value="405.16181741311897" />
+      <entry key="W1" value="745.8187562887855" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="3.7262187718763656E-4" />
+      <entry key="MS500" value="0.20618338715252035" />
+      <entry key="S2" value="0.6738502866815111" />
+      <entry key="S5" value="0.8539360868642984" />
+      <entry key="S10" value="0.9240866262733652" />
+      <entry key="S30" value="0.9792137239935178" />
+      <entry key="S60" value="1.254737764530002" />
+      <entry key="M2" value="3.8624190718392946" />
+      <entry key="M5" value="20.81566239677881" />
+      <entry key="M10" value="47.92296902621474" />
+      <entry key="M15" value="66.76454350647185" />
+      <entry key="M30" value="105.9537587855129" />
+      <entry key="H1" value="179.75709541751624" />
+      <entry key="H2" value="316.9313406610431" />
+      <entry key="H4" value="493.9034369575647" />
+      <entry key="D1" value="982.4291352226222" />
+      <entry key="W1" value="1880.1901765333928" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3GHNs1AMMQnmybtiQNQEr3tUqjX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AddSubSyncMethod.Client.executor": "Debug",
+    "Application.AdderSubtractor.Client.executor": "Run",
+    "Application.AdderSubtractorLock.Client.executor": "Run",
+    "Application.AdderSubtractorSyncronize.Client.executor": "Run",
+    "Application.Addition (1).executor": "Run",
+    "Application.Addition.executor": "Run",
+    "Application.Client.executor": "Run",
+    "Application.ConcurrencyProblems.Scrapper.Client.executor": "Run",
+    "Application.Generics.Client.executor": "Run",
+    "Application.Generics.User.Client.executor": "Run",
+    "Application.InterfaceExample.Main.executor": "Run",
+    "Application.LibraryMgmtSys.Main.executor": "Run",
+    "Application.LibraryMgmtSysMilestoneB.Main.executor": "Run",
+    "Application.Main (1).executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.Mutex.Client.executor": "Debug",
+    "Application.Rough.Main.executor": "Run",
+    "Application.Synchronization.Client.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "augment.onboarding.workspace.first.indexed./Users/vimal-17500/IdeaProjects/LLD": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "copilot.chat.legacySessionMetadata.migrated": "true",
+    "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/vimal-17500/IdeaProjects/LLD/lld/src",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.jshint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.jshint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "/Users/vimal-17500/IdeaProjects/LLD/src/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lld/src" />
+      <recent name="$PROJECT_DIR$/src/LibraryMgmtSysMilestoneB" />
+      <recent name="$PROJECT_DIR$/lld/src/Semaphore" />
+      <recent name="$PROJECT_DIR$/lld/src/AddSubSyncMethod" />
+      <recent name="$PROJECT_DIR$/lld/src/AdderSubtractorSyncronize" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Generics.User.Client">
+    <configuration name="Addition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ConcurrencyProblems.Addition.Addition" />
+      <module name="LLD" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ConcurrencyProblems.Addition.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ConcurrencyProblems.Addition.Client" />
+      <module name="lld" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ConcurrencyProblems.Addition.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConcurrencyProblems.Scrapper.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ConcurrencyProblems.Scrapper.Client" />
+      <module name="lld" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ConcurrencyProblems.Scrapper.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Generics.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Generics.Client" />
+      <module name="lld" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Generics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Generics.User.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Generics.User.Client" />
+      <module name="lld" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Generics.User.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Generics.User.Client" />
+        <item itemvalue="Application.Generics.Client" />
+        <item itemvalue="Application.ConcurrencyProblems.Scrapper.Client" />
+        <item itemvalue="Application.Client" />
+        <item itemvalue="Application.Addition" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-63390994e64e-intellij.indexing.shared.core-IU-262.8665.337" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.8665.337" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3ba0c4b5-fed3-434c-9f6f-10f48f541b0f" name="Changes" comment="" />
+      <created>1783624738990</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1783624738990</updated>
+      <workItem from="1783624740022" duration="4569000" />
+      <workItem from="1783924985460" duration="2000" />
+      <workItem from="1784463471828" duration="12006000" />
+      <workItem from="1784566254490" duration="7469000" />
+      <workItem from="1784661243695" duration="6681000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LibraryMgmtSysMilestoneA/Main.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LibraryMgmtSysMilestoneA/LibraryManagementSystem.java</url>
+          <line>60</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LibraryMgmtSysMilestoneA/LibraryManagementSystem.java</url>
+          <line>47</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="NONE" type="java-line">
+          <url>file://$PROJECT_DIR$/lld/src/Runnable/Main.java</url>
+          <line>6</line>
+          <placement>INTER_LINE</placement>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/lld/src/Runnable/Main.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/lld/src/AddSubSyncMethod/Value.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/lld/src/AddSubSyncMethod/Subtractor.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/lld/src/AddSubSyncMethod/Adder.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/lld/src/Mutex/Store.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/lld/src/Mutex/Producer.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/lld/src/Semaphore/Producer.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/lld/src/Semaphore/Consumer.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/lld/src/ConcurrencyProblems/Addition/Client.java</url>
+          <line>56</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/lld/src/ConcurrencyProblems/Addition/Addition.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="Mutex.Store" memberName="maxSize" />
+      </pinned-members>
+    </pin-to-top-manager>
+  </component>
+</project>
