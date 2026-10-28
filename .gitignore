@@ -1,0 +1,14 @@
+# Compiled Java files
+*.class
+out/
+target/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
